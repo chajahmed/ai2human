@@ -1,0 +1,329 @@
+{
+  "generatedAt": "2026-08-13T09:46:07.957Z",
+  "results": [
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-01.txt",
+      "aiPercentage": 0,
+      "wordCount": 176
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-02.txt",
+      "aiPercentage": 50,
+      "wordCount": 129
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-03.txt",
+      "aiPercentage": 68,
+      "wordCount": 141
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-04.txt",
+      "aiPercentage": 65,
+      "wordCount": 158
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-05.txt",
+      "aiPercentage": 0,
+      "wordCount": 74
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-06.txt",
+      "aiPercentage": 0,
+      "wordCount": 120
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-07.txt",
+      "aiPercentage": 0,
+      "wordCount": 108
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-08.txt",
+      "aiPercentage": 58,
+      "wordCount": 345
+    },
+    {
+      "category": "ai2human-humanized",
+      "file": "sample-09.txt",
+      "aiPercentage": 69,
+      "wordCount": 156
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-01.txt",
+      "aiPercentage": 8,
+      "wordCount": 143
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-02.txt",
+      "aiPercentage": 65,
+      "wordCount": 147
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-03.txt",
+      "aiPercentage": 8,
+      "wordCount": 176
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-04.txt",
+      "aiPercentage": 8,
+      "wordCount": 184
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-05.txt",
+      "aiPercentage": 0,
+      "wordCount": 255
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-06.txt",
+      "aiPercentage": 8,
+      "wordCount": 110
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-07.txt",
+      "aiPercentage": 5,
+      "wordCount": 116
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-08.txt",
+      "aiPercentage": 8,
+      "wordCount": 180
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-09.txt",
+      "aiPercentage": 42,
+      "wordCount": 107
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-10.txt",
+      "aiPercentage": 0,
+      "wordCount": 163
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-11.txt",
+      "aiPercentage": 8,
+      "wordCount": 160
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-12.txt",
+      "aiPercentage": 8,
+      "wordCount": 125
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-13.txt",
+      "aiPercentage": 8,
+      "wordCount": 233
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v1-14.txt",
+      "aiPercentage": 8,
+      "wordCount": 257
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-01.txt",
+      "aiPercentage": 8,
+      "wordCount": 218
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-02.txt",
+      "aiPercentage": 8,
+      "wordCount": 270
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-03.txt",
+      "aiPercentage": 4,
+      "wordCount": 110
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-04.txt",
+      "aiPercentage": 0,
+      "wordCount": 81
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-05.txt",
+      "aiPercentage": 8,
+      "wordCount": 79
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-06.txt",
+      "aiPercentage": 0,
+      "wordCount": 82
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-07.txt",
+      "aiPercentage": 8,
+      "wordCount": 164
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-08.txt",
+      "aiPercentage": 8,
+      "wordCount": 115
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-09.txt",
+      "aiPercentage": 0,
+      "wordCount": 115
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-10.txt",
+      "aiPercentage": 4,
+      "wordCount": 192
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-11.txt",
+      "aiPercentage": 0,
+      "wordCount": 178
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-12.txt",
+      "aiPercentage": 8,
+      "wordCount": 112
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-13.txt",
+      "aiPercentage": 0,
+      "wordCount": 104
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-14.txt",
+      "aiPercentage": 8,
+      "wordCount": 183
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-15.txt",
+      "aiPercentage": 0,
+      "wordCount": 97
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-16.txt",
+      "aiPercentage": 7,
+      "wordCount": 124
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-17.txt",
+      "aiPercentage": 0,
+      "wordCount": 124
+    },
+    {
+      "category": "human-rewrite",
+      "file": "v2-18.txt",
+      "aiPercentage": 8,
+      "wordCount": 196
+    },
+    {
+      "category": "raw-ai",
+      "file": "pair-01.txt",
+      "aiPercentage": 100,
+      "wordCount": 351
+    },
+    {
+      "category": "raw-ai",
+      "file": "pair-02.txt",
+      "aiPercentage": 100,
+      "wordCount": 138
+    },
+    {
+      "category": "raw-ai",
+      "file": "pair-03.txt",
+      "aiPercentage": 100,
+      "wordCount": 226
+    },
+    {
+      "category": "raw-ai",
+      "file": "pair-04.txt",
+      "aiPercentage": 74,
+      "wordCount": 165
+    },
+    {
+      "category": "raw-ai",
+      "file": "pair-05.txt",
+      "aiPercentage": 62,
+      "wordCount": 429
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-01.txt",
+      "aiPercentage": 65,
+      "wordCount": 145
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-02.txt",
+      "aiPercentage": 67,
+      "wordCount": 140
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-03.txt",
+      "aiPercentage": 61,
+      "wordCount": 153
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-04.txt",
+      "aiPercentage": 62,
+      "wordCount": 173
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-05.txt",
+      "aiPercentage": 65,
+      "wordCount": 244
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-06.txt",
+      "aiPercentage": 73,
+      "wordCount": 100
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-07.txt",
+      "aiPercentage": 62,
+      "wordCount": 104
+    },
+    {
+      "category": "raw-ai",
+      "file": "v1-08.txt",
+      "aiPercentage": 76,
+      "wordCount": 181
+    }
+  ]
+}
