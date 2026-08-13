@@ -1,0 +1,2 @@
+- 
+Fires at places like oil refineries, chemical plants, nuclear facilities, and shipping ports represent some of the most powerful use cases for firefighting robotics. These situations already carry all the dangers of a regular fire. Then there is the added layer: toxic leaks, the chance of an explosion, and substances that react badly when they meet water. Human crews walking into that kind of environment face hazards their protective gear only partly handles.

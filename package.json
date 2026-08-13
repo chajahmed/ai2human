@@ -1,0 +1,14 @@
+{
+  "name": "ai2human-detection-benchmark",
+  "version": "1.0.0",
+  "description": "Labeled corpus + scoring script for benchmarking AI-text detectors against raw AI, human, and humanized samples",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://ai2human.app",
+  "scripts": {
+    "score": "node scripts/score.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
