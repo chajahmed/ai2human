@@ -6,6 +6,8 @@ This repository also hosts the **AI2Human open benchmark corpus** — a labeled 
 
 > Website: **[ai2human.app](https://ai2human.app)** · Chrome extension: **[Add to Chrome](https://chromewebstore.google.com/detail/ai2human-%E2%80%94-ai-humanizer-a/fcocegafnneboemllpkjlbbafdaheefi)**
 
+![AI2Human AI humanizer — convert AI text to natural human writing, free](assets/ai2human-ai-humanizer.jpg)
+
 ---
 
 ## AI2Human tools
@@ -19,6 +21,14 @@ This repository also hosts the **AI2Human open benchmark corpus** — a labeled 
 | **AI Translator** | Translates between 108+ languages with auto-detect, a built-in grammar check on the source text, text-to-speech, tone rewriting (Formal, Informal, Academic, Business, Simple) and sentence-level rephrasing. | [AI translator](https://ai2human.app/translator) |
 | **Citation Generator** | Creates reference-list entries and matching in-text citations in APA, MLA, Chicago, Harvard and IEEE. Auto-fills from a URL, DOI or ISBN and builds a full bibliography. | [Citation generator](https://ai2human.app/citation-generator) |
 | **Browser Extension** | Brings AI2Human into your browser so you can humanize text without leaving the page you are writing on. | [Chrome Web Store](https://chromewebstore.google.com/detail/ai2human-%E2%80%94-ai-humanizer-a/fcocegafnneboemllpkjlbbafdaheefi) |
+
+### AI detector — see which sentences are AI
+
+![AI2Human free AI detector and AI checker — sentence-level AI content detection](assets/ai2human-ai-detector.png)
+
+### AI translator — 108+ languages
+
+![AI2Human free AI translator with grammar check, text-to-speech and tone rewriting](assets/ai2human-ai-translator.png)
 
 ### Who it is for
 
