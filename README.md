@@ -2,7 +2,7 @@
 
 **[AI2Human](https://ai2human.app)** is a free AI writing toolkit. Turn AI-generated text into natural, human-sounding writing with the **AI humanizer**, check any text with the **AI detector**, polish it with the **grammar checker**, translate it into 100+ languages, and format sources with the **citation generator**.
 
-This repository also hosts the **AI2Human open benchmark corpus** — a labeled set of raw AI text, human-written text, and humanized rewrites for testing how well **AI text detectors** and **AI content detectors** handle real-world writing.
+This repository also hosts the **AI2Human benchmark corpus** — a labeled set of raw AI text, human-written text, and humanized rewrites for testing how well **AI text detectors** and **AI content detectors** handle real-world writing.
 
 > Website: **[ai2human.app](https://ai2human.app)** · Chrome extension: **[Add to Chrome](https://chromewebstore.google.com/detail/ai2human-%E2%80%94-ai-humanizer-a/fcocegafnneboemllpkjlbbafdaheefi)**
 
@@ -108,6 +108,6 @@ APA, MLA, Chicago, Harvard and IEEE, each with the full reference and the in-tex
 
 [Website](https://ai2human.app) · [How it works](https://ai2human.app/how-it-works) · [Features](https://ai2human.app/features) · [Pricing](https://ai2human.app/pricing) · [Blog](https://ai2human.app/blog) · [Research](https://ai2human.app/research) · [Compare AI humanizers](https://ai2human.app/vs)
 
-## License
+## Usage
 
-MIT — see [LICENSE](LICENSE). Corpus text is provided for research and benchmarking use.
+Corpus text is provided for research and benchmarking use.
