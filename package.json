@@ -1,5 +1,5 @@
 {
-  "name": "ai2human-detection-benchmark",
+  "name": "ai2human",
   "version": "1.0.0",
   "description": "Labeled corpus + scoring script for benchmarking AI-text detectors against raw AI, human, and humanized samples",
   "type": "module",
